@@ -77,17 +77,67 @@ The assistant is designed to:
 
 ---
 
+---
+
 ## 📸 Prompt Demonstrations
 
-The chatbot was evaluated using five professional career guidance scenarios to validate its system prompt, response quality, and persona consistency.
+### Prompt 1 – Personalized AI Engineer Career Roadmap
 
-| Prompt | Screenshots |
-|---------|-------------|
-| **Prompt 1 – Personalized AI Engineer Career Roadmap** | <img src="prompt_outputs/prompt1-response.png" width="380"><br><br><img src="prompt_outputs/prompt1-response-2.png" width="380"> |
-| **Prompt 2 – AI Career Skill Gap Analysis** | <img src="prompt_outputs/prompt2-response-1.png" width="380"><br><br><img src="prompt_outputs/prompt2-response-2.png" width="380"> |
-| **Prompt 3 – AI Portfolio Strategy Advisor** | <img src="prompt_outputs/prompt3-user-input.png" width="380"> |
-| **Prompt 4 – Career Path Recommendation** | <img src="prompt_outputs/prompt4-response.png" width="380"> |
-| **Prompt 5 – Off-topic / Persona Retention Test** | <img src="prompt_outputs/prompt5-user-input.png" width="380"><br><br><img src="prompt_outputs/prompt5-response-1.png" width="380"><br><br><img src="prompt_outputs/prompt5-response-2.png" width="380"> |
+**Prompt**
+
+> I am a final-year Computer Science student interested in becoming an AI Engineer. I have experience with Python, basic machine learning, and building web applications. Create a personalized 6-month roadmap covering technical skills, AI concepts, projects, and milestones required to become internship/job ready. Keep the response concise and actionable.
+
+| Output 1 | Output 2 |
+|-----------|-----------|
+| <img src="prompt_outputs/prompt1-response.png" width="430"> | <img src="prompt_outputs/prompt1-response-2.png" width="430"> |
+
+---
+
+### Prompt 2 – AI Career Skill Gap Analysis
+
+**Prompt**
+
+> Analyze my current skills, identify the most important knowledge gaps, and recommend the next technologies I should learn to become an AI Engineer specializing in Generative AI and LLM applications. Keep the response concise.
+
+| Output 1 | Output 2 |
+|-----------|-----------|
+| <img src="prompt_outputs/prompt2-response-1.png" width="430"> | <img src="prompt_outputs/prompt2-response-2.png" width="430"> |
+
+---
+
+### Prompt 3 – Off-topic / Persona Retention Test
+
+**Prompt**
+
+> I am feeling bored. Can you suggest a movie and tell me a joke?
+
+| Output |
+|---------|
+| <img src="prompt_outputs/prompt3-user-input.png" width="550"> |
+
+---
+
+### Prompt 4 – Career Path Recommendation
+
+**Prompt**
+
+> Compare AI Engineering, Data Science, and Machine Learning Engineering based on required skills, daily responsibilities, career growth, and recommend the best path for someone interested in building AI-powered applications. Keep the answer concise.
+
+| Output |
+|---------|
+| <img src="prompt_outputs/prompt4-response.png" width="550"> |
+
+---
+
+### Prompt 5 – AI Portfolio Strategy Advisor
+
+**Prompt**
+
+> I want to build a strong AI Engineer portfolio for internships and junior roles. Recommend practical AI projects, technologies to use, and what recruiters expect to see. Keep the response concise and practical.
+
+| Input | Output 1 | Output 2 |
+|--------|----------|----------|
+| <img src="prompt_outputs/prompt5-user-input.png" width="280"> | <img src="prompt_outputs/prompt5-response-1.png" width="280"> | <img src="prompt_outputs/prompt5-response-2.png" width="280"> |
 
 ---
 
